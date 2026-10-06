@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+dataset/
+data_split/
+
+models/*.keras
+
+results/*.png
+results/*.json
+
+*.zip
